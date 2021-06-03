@@ -96,7 +96,7 @@ function EditActivity(props) {
                         <MenuItem value={2}>Calorie Log</MenuItem>
                         <MenuItem value={3}>Water Intake Log</MenuItem>
                         <MenuItem value={4}>Medication Log </MenuItem>
-                        <MenuItem value={4}>Custom Log </MenuItem>
+                        <MenuItem value={5}>Custom Log </MenuItem>
                     </Select>
                 </div>
                 <Typography id="discrete-slider" gutterBottom>
